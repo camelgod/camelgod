@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently learning:
+- - Accessibility, WCAG
 - - https://github.com/mozilla/hubs
 - - https://github.com/aframevr/aframe
 - - https://github.com/mrdoob/three.js/
