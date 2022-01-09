@@ -11,15 +11,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning:
-- - Accessibility, WCAG, Social VR Accessibility, Inclusive design
-- - https://github.com/mozilla/hubs
-- - https://github.com/aframevr/aframe
-- - https://github.com/mrdoob/three.js/
+🌱 I’m currently learning:
+- Accessibility, WCAG, Social VR Accessibility, Inclusive design
+- https://github.com/mozilla/hubs
+- https://github.com/aframevr/aframe
+- https://github.com/mrdoob/three.js/
 
-- 🔭 I’m currently working on ...
-- - Django / Django-Rest-Framework based applications
-- - Metaverses and social colaborative enviromnents with/without VR
+🔭 I’m currently working on ...
+- Django / Django-Rest-Framework based applications
+- Metaverses and social colaborative enviromnents with/without VR
 
-- 📫 How to reach me: ...
-- - https://www.linkedin.com/in/edvard-odegaard/
+📫 How to reach me: ...
+- https://www.linkedin.com/in/edvard-odegaard/
