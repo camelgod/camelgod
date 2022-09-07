@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working on ...
 - Django / Django-Rest-Framework based applications
-- Metaverses and social colaborative enviromnents with/without VR
+- EduTech applied to metaverse / social colaborative enviromnents
+- Web3D EduTech platforms
 
 📫 How to reach me: ...
 - https://www.linkedin.com/in/edvard-odegaard/
